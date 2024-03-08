@@ -1,2 +1,2 @@
 Deep diving into the c++ language.
-I will 
+I will keep track of every progress.
